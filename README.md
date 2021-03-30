@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
   <meta charset="UTF-8">
   <title>Homework</title>
 </head>
-<img src="https://github.com/Chaoxing677/housework/blob/main" height="150" width="350" alt="杭州电子科技大学"/>
+<img src="Chaoxing677/housework/blob/main/logo/png" height="150" width="350" alt="杭州电子科技大学"/>
 <body>
 <p>Name:</p>
 <p>Department:</p>
