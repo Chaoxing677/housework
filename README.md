@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Chaoxing677
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Chaoxing677/Chaoxing677 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,7 +8,7 @@ You can click the Preview link to take a look at your changes.
   <meta charset="UTF-8">
   <title>Homework</title>
 </head>
-<img src="Chaoxing677/housework/blob/main/logo.png" height="150" width="350" alt="杭州电子科技大学"/>
+<img src="Chaoxing677/housework/blob/main/Chaoxing677/housework/blob/main/logo.png" height="150" width="350" alt="杭州电子科技大学"/>
 <body>
 <p>Name:</p>
 <p>Department:</p>
