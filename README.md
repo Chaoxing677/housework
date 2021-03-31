@@ -2,7 +2,6 @@
 Chaoxing677/Chaoxing677 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -33,12 +32,9 @@ You can click the Preview link to take a look at your changes.
 <p>You can find news at <span><a href="http://www.hdu.edu.cn">HDU</a></span> on its website.</p>
 <p><font  size="4" color="black">2</font></p>
 <p>You will Learn...:</p>
-<ul class="list" type="none";
-    style="background: grey;color:black;">
 <li>1.S<sub>2</sub>O</li>
 <li>2.2*7<sup>3</sup></li>
   <li>3.HTML and CSS</li>
-</ul>
 </p>
 <p><font  size="4" color="black">3</font></p>
 <p>Yes...</p>
@@ -52,4 +48,4 @@ You can click the Preview link to take a look at your changes.
 <p>"Know yourself"--<i>Bill,Esq</i></p>
 
 </body>
-</html>
+
