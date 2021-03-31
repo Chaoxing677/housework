@@ -8,7 +8,6 @@ You can click the Preview link to take a look at your changes.
   <meta charset="UTF-8">
 
 </head>
-  <title>Housework</title>
 <img src="Chaoxing677/housework/blob/main/logo.png" height="150" width="350" alt="杭州电子科技大学"/>
 <body>
 <p>Name:</p>
